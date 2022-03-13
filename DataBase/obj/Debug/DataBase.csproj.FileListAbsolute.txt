@@ -1,0 +1,65 @@
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\MySql.Data.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\Google.Protobuf.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\Zstandard.Net.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\BouncyCastle.Crypto.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\Ubiety.Dns.Core.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\Renci.SshNet.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\System.Memory.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\System.Buffers.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\K4os.Compression.LZ4.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\K4os.Hash.xxHash.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\bin\Debug\MySql.Data.xml
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.exe.config
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Добавление_больного.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Добавление_врача.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Вывод_данных_о_больных.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Поиск_больного.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Изменение_статуса_больного.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Удаление_больного.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Изменение_названия.resources
+C:\Учеба\БД\DBCoronavirus\DataBase\DataBase\obj\Debug\DataBase.Добавление_больницы.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\DataBase.exe.config
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\DataBase.exe
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\DataBase.pdb
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\MySql.Data.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\Google.Protobuf.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\ZstdNet.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\BouncyCastle.Crypto.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\Ubiety.Dns.Core.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\System.Memory.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\System.Buffers.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\K4os.Compression.LZ4.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\K4os.Hash.xxHash.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\System.Numerics.Vectors.dll
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\bin\Debug\MySql.Data.xml
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.exe.config
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.exe
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.pdb
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.findPatient.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.AddPatient.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.AddHospital.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.ChangeNames.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.ChangePatientStatus.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.PatientInformation.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.AddDoctor.resources
+D:\3. For study\3 курс\5 семестр\Базы данных\Курсовая\DataBase\DataBase\obj\Debug\DataBase.DeletePatient.resources
